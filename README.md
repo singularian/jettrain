@@ -13,7 +13,8 @@ crash energy. This will improve safety by enabling a train to disipate energy in
 
 # Advantages
 - No delays due to wheather
-- No decompression due to altitude. The Jet train travels on the ground at 600 MPH.
+- No decompression due to altitude. The Jet train travels on the ground at 600 MPH or faster.
+- The potential for Supersonic jet train travel.
 - No Air Traffic Control
 - Lower emissions from Jet engines
 - Less noise as the jet can be isolated to the concrete tunnel tubes
