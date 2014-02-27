@@ -7,7 +7,9 @@ Jet trains would travel at 600 miles an hour or as fast as commercial jets while
 They can use conventional technology and minimize the use of exotic carbon fibre and expensive materials.
 A jet train would also eliminate crashing on landing or takeoff.
 Unlike Air transportation a jet train does not dissapear.
- 
+
+Tunnels and tubes can also provide built in safety from derailment by implementing deformable barriers or tubes that absorb
+crash energy. This will improve safety by enabling a train to disipate energy in the barrier. 
 
 # Advantages
 - No delays due to wheather
