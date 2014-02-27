@@ -20,6 +20,7 @@ Unlike Air transportation a jet train does not dissapear.
 - Less chance of accidents since the Jet Trains only travel on the ground and rarely ascend above a thousand feet. 
 - Eliminating landing or takeoff in a Jet Train.
 - Superior to the hyperloop since jets are proven technology.
+- Video panels in place of windows that can display outside from video images or virtual displays of city scapes or virtual environments.
 
 # Applications 
 A Jet Train could replace most forms of aviation with ground centered train travel that is safer.
